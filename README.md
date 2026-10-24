@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Akshay Gupta 
 
-<!--
-**Akshaygupta05642/Akshaygupta05642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Java Backend Developer focused on learning, problem-solving, and building practical applications.
 
-Here are some ideas to get you started:
+## About Me
+-  Practicing Java and Data Structures & Algorithms
+-  Learning Spring Boot and backend development
+-  Building web applications and personal projects
+-  Improving my coding and software development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Database:** MySQL, SQL
+- **Tools:** Git, GitHub, VS Code
+- **Learning:** Spring Boot, REST APIs, DSA
+
+## Featured Projects
+- **CART-Zo** — E-commerce web project
+- **Expense Tracker** — Expense tracking application
+- **Currency Converter** — Currency conversion web application
+- **BookFinder MVC** — Java MVC project
+
+## Connect
+- GitHub: [Akshaygupta05642](https://github.com/Akshaygupta05642)
+
+Always learning, building, and improving. 
